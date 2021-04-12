@@ -15,7 +15,7 @@
 * Mel Spectrograms were created from the first 10 seconds of each song in the dataset
 ![Example of Mel Spectrogram](https://user-images.githubusercontent.com/43804297/114368356-fbff1800-9b9a-11eb-9962-8b429d16c291.png)
 * As these spectrograms are images, we can treat this as an immage classification problem
-* We train a CNN to classify these spectrograms into their genres
+* We train a CNN to classify these spectrograms into their genres                            
 ![CNN model summary](https://user-images.githubusercontent.com/43804297/114367304-f0f7b800-9b99-11eb-8f6f-6fd8d5b72305.png)
 
 ## training
