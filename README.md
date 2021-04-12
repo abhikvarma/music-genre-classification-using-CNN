@@ -22,6 +22,6 @@
 * An adam optimizer was used for training
 * Categorical Crossentropy loss was used since it was a classification problem
 * We noticed overfitting, to reduce this we
- * Removed instrumental songs from our data since it showed the highest misclassification
- * Reduced complexity of our CNN model
- * Added regularization and a dropout layer
+  * Removed instrumental songs from our data since it showed the highest misclassification
+  * Reduced complexity of our CNN model
+  * Added regularization and a dropout layer
