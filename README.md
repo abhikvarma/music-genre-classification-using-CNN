@@ -25,3 +25,7 @@
   * Removed instrumental songs from our data since it showed the highest misclassification
   * Reduced complexity of our CNN model
   * Added regularization and a dropout layer
+* We got the following Accuracy and Loss graphs (blue = validation | orange = training)
+* ![Accuracy graph](https://user-images.githubusercontent.com/43804297/114369085-a8d99500-9b9b-11eb-9a63-3a911844dc6e.png)
+* ![Loss graph](https://user-images.githubusercontent.com/43804297/114369101-ac6d1c00-9b9b-11eb-8e6f-9e11a0196d69.png)
+
