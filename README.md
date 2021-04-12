@@ -29,3 +29,10 @@
 ![Accuracy graph](https://user-images.githubusercontent.com/43804297/114369085-a8d99500-9b9b-11eb-9a63-3a911844dc6e.png)
 ![Loss graph](https://user-images.githubusercontent.com/43804297/114369101-ac6d1c00-9b9b-11eb-8e6f-9e11a0196d69.png)
 
+## results
+* 626/994 songs were classified correctly 
+* Accuracy of 62.97% was obtained
+* Hip Hop and Folk songs were classified well
+* The model had trouble classifying Pop and Rock songs
+* ![test confusion matrix](https://user-images.githubusercontent.com/43804297/114369616-31583580-9b9c-11eb-9073-156fff3298ab.png)
+
